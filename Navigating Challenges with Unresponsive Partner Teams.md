@@ -1,6 +1,14 @@
 
 
+[Title](#navigating-challenges-with-unresponsive-partner-teams)
+
+[Context](#context)
+
+[Handling](#handling)
+
+
 # Navigating Challenges with Unresponsive Partner Teams
+
 
 ## Context 
 
@@ -22,7 +30,7 @@ The onus is on you (as Engineering Manager for the infrastructure team) to drive
 
 + `Team P` - your own team which manages the product on which the incident is reported 
 
-## Actions Taken So Far
+### Actions Taken So Far
 
 + You tagged `Team D` and their manager `DM` in incident slack channel.
 
@@ -30,7 +38,7 @@ The onus is on you (as Engineering Manager for the infrastructure team) to drive
 
 + Waited for `Team D` to respond in reasonable time limit (for e.g., 24 hrs. for a P3 incident) 
 
-## Anticipated Outcomes or Expectations
+### Anticipated Outcomes or Expectations
 
 There are no incidents 🙂 (in a perfect world) 
 
@@ -39,13 +47,13 @@ Based on analysis, both teams decide who is the correct owner for driving the tr
 
 The team driving the triage, take the responsibility of providing timely updates to `Team C` and other stakeholders for progress and action items. 
 
-## What Actually Happened 
+### What Actually Happened 
 
 `Team D` did not respond or begin triage in a timely manner. 
 You did not get any response from `Team D` manager for your slack message.
 `Team C` leadership is waiting for the root cause analysis and action items to prevent similar issue to happen in future.
 
-## What Could You Do? 
+## Handling
 
 ### Approach 1 - When it's a onetime occurrence 
 
