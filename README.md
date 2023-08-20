@@ -17,7 +17,6 @@ their own. No more sifting through pages – just practical solutions right at o
 your experiences, and help others navigate their challenges too.
 
 ## How
-Every scenario is categorized with a title, context, approach (one or many). An approach could have positives, challenges
-and potential pitfalls.
+Every scenario is categorized with a title, context and handling (one or many approaches). An approach could have positives, challenges and potential pitfalls.
 
 Ideas to improve are welcome!
